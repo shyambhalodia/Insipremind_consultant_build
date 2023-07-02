@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9d8d4819.css",
-    "main.js": "/static/js/main.1eef5100.js",
+    "main.js": "/static/js/main.91a0fdbf.js",
     "static/js/332.7b5e0d0e.chunk.js": "/static/js/332.7b5e0d0e.chunk.js",
     "static/js/831.9db6d472.chunk.js": "/static/js/831.9db6d472.chunk.js",
     "static/js/405.ebbf46ea.chunk.js": "/static/js/405.ebbf46ea.chunk.js",
@@ -51,7 +51,6 @@
     "static/media/slider-bg-3.jpg": "/static/media/slider-bg-3.d43e301ebcd1be01ef4b.jpg",
     "static/media/slider-bg-2.jpg": "/static/media/slider-bg-2.a274526164db40a919cb.jpg",
     "static/media/registrer_image.svg": "/static/media/registrer_image.0e519a7d534d989013a4c65838a75927.svg",
-    "static/media/logo.png": "/static/media/logo.002d476c3c024cc875ae.png",
     "static/media/user.svg": "/static/media/user.9f932694d95036aeb828ec32ed5af83e.svg",
     "static/media/men-employee-img.jpg": "/static/media/men-employee-img.c9a13e368e67cbc1e7f5.jpg",
     "static/media/default-healthcare.webp": "/static/media/default-healthcare.e29f1753ed0fdfd053d6.webp",
@@ -68,7 +67,7 @@
     "static/media/eye-close.svg": "/static/media/eye-close.98cdbd487a7ddb6e82716f7b267431a6.svg",
     "static/media/eye.svg": "/static/media/eye.883854b107682a93a180e8d50854c5b1.svg",
     "main.9d8d4819.css.map": "/static/css/main.9d8d4819.css.map",
-    "main.1eef5100.js.map": "/static/js/main.1eef5100.js.map",
+    "main.91a0fdbf.js.map": "/static/js/main.91a0fdbf.js.map",
     "332.7b5e0d0e.chunk.js.map": "/static/js/332.7b5e0d0e.chunk.js.map",
     "831.9db6d472.chunk.js.map": "/static/js/831.9db6d472.chunk.js.map",
     "405.ebbf46ea.chunk.js.map": "/static/js/405.ebbf46ea.chunk.js.map",
@@ -115,6 +114,6 @@
   },
   "entrypoints": [
     "static/css/main.9d8d4819.css",
-    "static/js/main.1eef5100.js"
+    "static/js/main.91a0fdbf.js"
   ]
 }
