@@ -1,0 +1,2 @@
+fetch("public/index.html").then((function(e){return e.text()})).then((function(e){return document.getElementById("root").innerHTML=e,fetch("public/favicon/Inspiremind.png")})).then((function(e){return e.blob()})).then((function(e){var t=URL.createObjectURL(e),n=document.createElement("img");n.src=t,n.alt="imgs",document.querySelector(".hero img").replaceWith(n)})).catch((function(e){console.error("Error:",e)}));
+//# sourceMappingURL=main.7d35dbd2.js.map
